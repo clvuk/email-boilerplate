@@ -1,0 +1,11 @@
+# Deps
+node_modules
+bower_components
+
+# Runtime
+.mailgun.json
+.DS_Store
+*.log
+
+# Compiled
+email.html
