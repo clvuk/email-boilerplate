@@ -45,9 +45,8 @@ Then run `gulp test` with the email you want to send the test to.
 gulp test --email me@email.com
 ```
 
---
+***
 
-### License
 
 MIT © [Sean King](https://github.com/seaneking)
 
